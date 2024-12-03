@@ -1,0 +1,101 @@
+#nav-hero{
+  position: relative;
+  background-image: url('../public/hero_1.jpg');
+  background-position: center;
+  background-size:cover;
+  height: 110vh;
+  width: 100%;
+  box-sizing: border-box;
+}
+#nav-hero::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+@media (max-width:275px){
+  #nav-hero{
+   background-size: 500%;
+  }
+  }
+  .hotel-img{
+    position: relative;
+    background-image: url('https://preview.colorlib.com/theme/hepta/images/hero_5.jpg');
+    background-position: center;
+    background-size:cover;
+    height: 80vh;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .hotel-img::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .about-img{
+    position: relative;
+    background-image: url('https://preview.colorlib.com/theme/hepta/images/hero_2.jpg');
+    background-position: center;
+    background-size:cover;
+    height: 80vh;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .about-img::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .news-img{
+    position: relative;
+    background-image: url('https://preview.colorlib.com/theme/hepta/images/hero_3.jpg');
+    background-position: center;
+    background-size:cover;
+    height: 80vh;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .news-img::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .contact-img{
+    position: relative;
+    background-image: url('https://preview.colorlib.com/theme/hepta/images/hero_4.jpg');
+    background-position: center;
+    background-size:cover;
+    height: 80vh;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .contact-img::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.2);
+    z-index: 1;
+  }

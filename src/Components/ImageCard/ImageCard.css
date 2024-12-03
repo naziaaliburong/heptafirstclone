@@ -1,0 +1,37 @@
+.card-main{
+    border-radius: 0%;
+    width: 100%;
+    height: auto;
+}
+.card img {
+    border-radius: 0%;
+}
+.card-para-hidden{
+    display: none !important;
+}
+.card-para-display{
+    color: rgb(108, 117, 125) !important;
+    font-family: "Mukta Mahee", arial, sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+}
+.card-heading{
+    color: rgb(206, 212, 218);
+    font-family: "Mukta Mahee", arial, sans-serif;
+    font-size: 12px;
+    letter-spacing: 1.8px;
+    line-height: 32.4px;
+    text-transform: uppercase;
+}
+.card-heading-2{
+    color: rgb(0, 0, 0);
+    font-family: "Abril Fatface", times, serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+.heading1-display{
+    display: block;
+}
+.heading1-hide{
+    display: none;
+}

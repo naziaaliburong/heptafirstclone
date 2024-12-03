@@ -1,0 +1,57 @@
+.border-circle{
+    border-radius: 50%;
+}
+.customer-container{
+    width: 100% !important;
+    margin: 0px !important;
+    padding: 8% 17% 3% 17%!important;
+    background-color: #fafafa;
+}
+.customer-heading{
+    font-family: "Abril Fatface", times, serif;
+    font-size: 60px;
+    font-weight: bolder;
+    line-height: 40px;
+}
+.customer-para1{
+    font-family: "Mukta Mahee", arial, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    line-height: 25px;
+    padding-top: 8px !important;
+    color: black;
+    }
+.customer-para2{
+    color: rgb(108, 117, 125);
+    font-family: "Mukta Mahee", arial, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 32.4px;
+}
+@media (max-width: 1100px){
+    .customer-container{
+        padding-left: 7% !important;
+        padding-right: 7% !important;
+    }
+    .customer-para1 {
+        font-size: 19px;
+    }
+    .customer-para2 {
+        font-size: 17px;
+    }
+}
+@media (max-width: 1000px){
+    .customer-heading{
+        font-size: 40px;
+    }
+    .custom-body {
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+    }
+}
+@media (max-width: 600px){
+    .custom-body {
+        padding-left: 0% !important;
+        padding-right: 0% !important;
+    }
+}

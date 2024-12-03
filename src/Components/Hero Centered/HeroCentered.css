@@ -1,0 +1,16 @@
+.hero-centered{
+    margin: 0 !important;
+    padding-top: 7% !important;
+}
+.hero-centered h1{
+    font-size: 34px;
+    font-family: "Abril Fatface", times, serif;
+    font-weight: 500;
+}
+.hero-para-style{
+    color: rgb(108, 117, 125);
+    font-family: "Mukta Mahee", arial, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    }

@@ -1,0 +1,24 @@
+.menu{
+display: flex;
+justify-content: space-between;
+list-style: none;
+padding: 20px;
+padding-top: 50px;
+margin: 0;
+font-size: 30px;
+color: #fff;
+font-weight: bolder;
+font-family: "Abril Fatface", times, serif !important;
+}
+.home-icon{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 2;
+}
+.hamburger{
+    color: #fff;
+    position: relative;
+    z-index: 2;
+    font-size: 40px;
+}
