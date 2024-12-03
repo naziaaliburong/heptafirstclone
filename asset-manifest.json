@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/heptafirstclone/static/css/main.16491007.css",
+    "main.js": "/heptafirstclone/static/js/main.201d24d0.js",
+    "static/js/453.8ab44547.chunk.js": "/heptafirstclone/static/js/453.8ab44547.chunk.js",
+    "static/media/hero_1.jpg": "/heptafirstclone/static/media/hero_1.31da2dfb6b409cfe6ba1.jpg",
+    "static/media/img_1_long.jpg": "/heptafirstclone/static/media/img_1_long.3a0658ac77dbd9f650c0.jpg",
+    "index.html": "/heptafirstclone/index.html",
+    "main.16491007.css.map": "/heptafirstclone/static/css/main.16491007.css.map",
+    "main.201d24d0.js.map": "/heptafirstclone/static/js/main.201d24d0.js.map",
+    "453.8ab44547.chunk.js.map": "/heptafirstclone/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16491007.css",
+    "static/js/main.201d24d0.js"
+  ]
+}
