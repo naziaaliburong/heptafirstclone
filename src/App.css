@@ -1,3 +1,7 @@
+html, body {
+  overflow-x: hidden;
+}
+
 #nav-hero{
   position: relative;
   background-image: url('../public/hero_1.jpg');
